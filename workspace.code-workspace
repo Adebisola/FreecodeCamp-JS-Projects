@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Frontend Masters Challenge 1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Frontend Masters Challenge 1"
+	}
+}
